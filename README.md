@@ -21,7 +21,7 @@ Code that will be implemented include how the servo motors are controlled and bu
 
 ## Challenges
 
-Challenges with this project include how to proerly place the servos with eachother as they would resemble a human body with joints.  It also took some time to figure out the positions that the servos would activate and move to to resemble the dance moves. Once the code was completed and test runs were done, the final challenge was to put everything together into the doll itself and making sure the servos had enough room to play with.
+Challenges with this project include how to properly place the servos with eachother as they would resemble a human body with joints.  It also took some time to figure out the positions that the servos would activate and move to to resemble the dance moves. Once the code was completed and test runs were done, the final challenge was to put everything together into the doll itself and making sure the servos had enough room to play with.
 
 ## Completed Work
 
